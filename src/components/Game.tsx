@@ -43,7 +43,7 @@ const SWEET_MESSAGES = [
     "I love how you laugh at your own jokes before you even finish them 😂",
     "You always make room for people — in your plans, your heart, everywhere 🫶",
     "The way you get excited about small things makes everything feel bigger and better 🌟",
-    "I love that you take Eira's opinions seriously. She is very opinionated. 🐾",
+    "I love that you take Eira's opinions and drama seriously. 🐾",
     "You've seen me at my worst and somehow love me more for it 💙",
     "Watching you with Eira is one of my absolute favourite things in the world 🥰",
     "You make our little flat feel like the most special place on earth 🏠",
