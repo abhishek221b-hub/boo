@@ -10,7 +10,7 @@ const COUPLE_PHOTOS = [
 ];
 
 const SWEET_MESSAGES = [
-    "I love your weird OCDs,
+    "I love your weird OCDs",
     "Your horse-like laugh at silly things is my favorite sound in the world 🎶",
     "You're the best thing I never planned for ",
     "Watching you be kind to strangers makes me love you more 💛",
