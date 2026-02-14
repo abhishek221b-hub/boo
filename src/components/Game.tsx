@@ -219,7 +219,7 @@ export default function Game() {
     const [score, setScore] = useState(0);
     const [totalTime, setTotalTime] = useState(GAME_DURATION);
     const [currentLevel, setCurrentLevel] = useState(0);
-    const [levelTimeLeft, setLevelTimeLeft] = useState(LEVELS[0].duration);
+    const [, setLevelTimeLeft] = useState(LEVELS[0].duration);
     const [showLevelBanner, setShowLevelBanner] = useState(false);
     const [eiraWagging, setEiraWagging] = useState(false);
     const [clouds] = useState(() =>
